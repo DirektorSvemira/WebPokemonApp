@@ -1,10 +1,10 @@
 # WebPokemonApp
 
-1.	Uvod
 
-2.1	Svrha aplikacije 
+
+	Svrha aplikacije 
 Kroz vježbe kolegija Razvoj poslovnih aplikacija izradit će se jednostavna aplikacija za Pokemon kartice, koja podržava unos, uređivanje, brisanje, pretragu I popis pokemon kartica u bazi. Aplikacija također treba omogućiti brisanje iprikaz detalja pojedine Pokemon kartice. Svaki unos podataka kroz aplikaciju treba uključivati provjeru valjanosti I za brisanje podataka je potrebna posebna potvrda korisnika.
-2.2	Korisnici aplikacije
+	Korisnici aplikacije
 Aplikaciji moći pristupiti svi korisnici koji imaju internet I internet preglednik te žele saznati trenutne cijene te pojedinosti pokemon kartica
 
  -Koristi (benefiti) od aplikacije
